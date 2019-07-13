@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuayeneTakip.WinUI", "MuayeneTakip.WinUI\MuayeneTakip.WinUI.csproj", "{CF9D2E3A-2DE0-4429-8311-EED9E18D4907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9D2E3A-2DE0-4429-8311-EED9E18D4907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9D2E3A-2DE0-4429-8311-EED9E18D4907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9D2E3A-2DE0-4429-8311-EED9E18D4907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9D2E3A-2DE0-4429-8311-EED9E18D4907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {658EF57B-16E7-4482-8700-7A9F4581D8F0}
+	EndGlobalSection
+EndGlobal
